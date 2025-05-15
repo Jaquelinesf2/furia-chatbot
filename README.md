@@ -42,7 +42,7 @@ furia-chatbot/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/furia-chatbot.git
+git clone https://github.com/Jaquelinesf2/furia-chatbot.git
 cd furia-chatbot
 
 ### 2. Crie o ambiente virtual
